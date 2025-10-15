@@ -1,0 +1,50 @@
+/* General page styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 40px;
+}
+
+/* Secondary heading */
+h2 {
+    text-align: center;
+    color: #7f8c8d;
+    margin-top: 30px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+/* Styled link */
+a {
+    display: block;
+    text-align: center;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    width: 220px;
+    margin: 20px auto;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #2980b9;
+}
